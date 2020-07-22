@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2kf4o2ZJmXXffOrLv6Jvc2V5LayhaOqxjd/ZAhuiq2u1tekR7unNQegqe7g9ioiS/FDtjs0/KjQnm8somz9lGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Walysson\\codenation\\csharp-1\\Source\\Source.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Walysson\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Walysson\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
